@@ -40,11 +40,11 @@
 
   - для оплаты работы с карты buyer`а при создании контеста:
     - Card number: 4111111111111111
-    - Expires end: 09/23
+    - Expires end: 09/25
     - cvc/cvv: 505
   - для вывода средств на карту creator`а:
     - Card number: 5105105105105100
-    - Expires end: 09/23
+    - Expires end: 09/25
     - cvc/cvv: 510
 ###     
 - Данные пользователей:
