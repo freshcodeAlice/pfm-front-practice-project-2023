@@ -76,5 +76,12 @@ export default {
       title: 'LEGAL',
       items: ['Terms of Service', 'Privacy Policy', 'Cookie Policy']
     }
-  ]
+  ],
+  PRICING_COLORS : {
+  BRONZE: '#e0b48d',
+  GOLD: '#e8b954',
+  PLATINUM: '#555',
+  MANAGED: '#28d2d0'
+  }
+
 }
